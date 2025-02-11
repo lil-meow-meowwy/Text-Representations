@@ -2,7 +2,7 @@
 
 This repository contains a Jupyter Notebook (`text_representations.ipynb`) that explores different text representation techniques such as Bag of Words (BoW), TF-IDF, and Word2Vec (Skip-Gram and CBOW) for text classification. The dataset used is a medical text dataset for cancer document classification.
 
-## Dataset: Medical Text Dataset -Cancer Doc Classification (https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification).
+Dataset: Medical Text Dataset -Cancer Doc Classification (https://www.kaggle.com/datasets/falgunipatel19/biomedical-text-publication-classification).
 
 ## Results
 - **BoW Accuracy**: 93.20%
